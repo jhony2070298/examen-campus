@@ -1,0 +1,22 @@
+# Archivos y carpetas de entorno
+.vscode/
+.idea/
+*.swp
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+*.log
+
+# Paquetes y dependencias
+*.nupkg
+*.snupkg
+
+# Archivos de configuración local
+appsettings.Development.json
